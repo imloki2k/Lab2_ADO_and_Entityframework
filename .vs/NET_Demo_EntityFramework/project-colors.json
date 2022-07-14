@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "070d284d-f3fc-4ae0-8182-b7271d87d295": {
+      "ProjectGuid": "070d284d-f3fc-4ae0-8182-b7271d87d295",
+      "DisplayName": "NET_Demo_EntityFramework",
+      "ColorIndex": 0
+    },
+    "5337375e-6a4c-4b6c-961f-6b58a9a1a414": {
+      "ProjectGuid": "5337375e-6a4c-4b6c-961f-6b58a9a1a414",
+      "DisplayName": "Lab2",
+      "ColorIndex": 1
+    },
+    "174552cf-7e4b-4470-b12b-1d8c819c3ddc": {
+      "ProjectGuid": "174552cf-7e4b-4470-b12b-1d8c819c3ddc",
+      "DisplayName": "Lab2_DAO",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
